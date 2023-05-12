@@ -3,7 +3,7 @@
  "ID": "Cookie SPAM",
  "Author": "FL9NS",
  "Description": "Cookie SPAM",
- "ModVersion": 1.002,
+ "ModVersion": 1.003,
  "GameVersion": 2.052,
  "Date": "12/05/2023",
  "Dependencies": [],
