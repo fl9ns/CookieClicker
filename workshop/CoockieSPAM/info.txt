@@ -1,0 +1,13 @@
+{
+ "Name": "Cookie SPAM",
+ "ID": "Cookie SPAM",
+ "Author": "FL9NS",
+ "Description": "Cookie SPAM",
+ "ModVersion": 1.002,
+ "GameVersion": 2.052,
+ "Date": "12/05/2023",
+ "Dependencies": [],
+ "AllowSteamAchievs": 1,
+ "Disabled": 0,
+ "Workshop": "2974036611"
+}
